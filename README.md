@@ -1,17 +1,10 @@
-**Description**
+# Snake Game
 
-This game created with html,css and javascript
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
+**Classic nokia snake game using web.**
 
-*Web app link*
+## Note:
 
-
-*Screenshots*
-![Image of website](https://github.com/beknazar09/websnakegame/blob/main/images/img1.png)
-
-![Image of website](https://github.com/beknazar09/websnakegame/blob/main/images/img2.png)
-
-![Image of website](https://github.com/beknazar09/websnakegame/blob/main/images/img3.png)
-
-![Image of website](https://github.com/beknazar09/websnakegame/blob/main/images/img4.png)
-нусубалиев урматбек
+1. The docs folder contains the latest working files.
+2. Best result on Google Chrome.(Desktop)

@@ -1,6 +1,8 @@
 # Snake Game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+**Description**
+
+Snake game created with HTML & CSS and JavaScript the snake main controls are control buttons. The aim of the user is got max points eat protein food with snake. This game can be play in laptop and mobile.
 
 **Classic nokia snake game using web.**
 

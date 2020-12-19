@@ -18,6 +18,6 @@ Snake game created with HTML & CSS and JavaScript the snake main controls are co
 
 **Team members list**
 
-*Nusubaliev Urmatbek*
+**1.Nusubaliev Urmatbek**
 
-*Akhmatzhanov Beknazar*
+**2.Akhmatzhanov Beknazar**

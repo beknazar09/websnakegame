@@ -2,8 +2,7 @@
 
 **Web App link**
 
- https://beknazar09.github.io/snake/.
-
+ https://beknazar09.github.io/Snakegame/.
 
 
 **Description**

@@ -28,3 +28,7 @@ Snake game created with HTML & CSS and JavaScript the snake main controls are co
 **1.Nusubaliev Urmatbek**
 
 **2.Akhmatzhanov Beknazar**
+
+**Feedbacks**
+
+https://drive.google.com/file/d/10IKP-iNip7I0EdlcT678FPs1JOOn3yu1/view?usp=sharing, https://drive.google.com/file/d/1GLutqyYAAJff2B2Lfhw9gDTDW_NiHs0y/view?usp=sharing
